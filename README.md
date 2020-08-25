@@ -1,3 +1,7 @@
+![iOS](https://img.shields.io/badge/iOS-13%20-blue)
+![Swift](https://img.shields.io/badge/Swift-5-orange?logo=Swift&logoColor=white)
+<a href="https://twitter.com/intent/follow?screen_name=ChrisSong"><img src="https://img.shields.io/badge/@chriisong-x?color=08a0e9&logo=twitter&logoColor=white" /></a>
+
 # TarkovMarket
 **TarkovMarket** is a simple market information app for Battlestate Game’s Escape from Tarkov. It retrieves data using a 3rd party API service and displays it appropriately on UITableView and UICollectionView using the latest Diffable Data Source technology for responsive, reactive, and powerful performance. The app uses Core Data for persistence to enable users to favourite their desired items for quick access.
 
